@@ -1,0 +1,11 @@
+.main-nav-bar {
+    background-color: rgb(9, 53, 110);
+    border-radius: 1em;
+    padding: 10px;
+}
+
+.nav-links {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}

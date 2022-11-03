@@ -6,10 +6,13 @@
     justify-content: space-between;
 }
 
-.nav-links {
+nav ul li {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bold;
 }
 
 .intro-container {
@@ -22,6 +25,14 @@
 
     display: flex;
     justify-content: space-between;
+}
+
+.image-box {
+    text-align: center;
+    border: solid black;
+    border-radius: 1em;
+    margin: 1em;
+    flex: 1;
 }
 
 img {
